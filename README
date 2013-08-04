@@ -1,4 +1,7 @@
-Movie directory renamer for movies downloaded via Torrent. Fetchs data from IMDB, renames directory names using patterns given by user.
+Automatic movie directory renamer for movies downloaded via Torrent. Fetchs data from IMDB, renames directory names using patterns given by user.
 Backround works coded by standart python, front-end GUI by PySide, Qt 4.8
 USAGE:
 python3 main.py
+
+HINTS:
+-If there are torrent release groups tags which script can't delete, add them to "toDelete" file
