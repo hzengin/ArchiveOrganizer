@@ -1,1 +1,2 @@
-This file was created by PyCharm 2.7.3 for binding GitHub repository
+Movie directory renamer for movies downloaded via Torrent. Fetchs data from IMDB, renames directory names using patterns given by user.
+Backround works coded by standart python, front-end GUI by PySide, Qt 4.8
