@@ -5,3 +5,6 @@ python3 main.py
 
 HINTS:
 -If there are torrent release groups tags which script can't delete, add them to "toDelete" file
+
+TODO:
++Need multi-threading
